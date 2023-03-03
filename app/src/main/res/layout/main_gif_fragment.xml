@@ -11,7 +11,7 @@
         android:background="@color/back_theme"
         tools:context=".MainActivity">
 
-        <androidx.appcompat.widget.AppCompatEditText
+        <EditText
             android:id="@+id/editTextSearchArea"
             android:layout_width="0dp"
             android:layout_height="50dp"
@@ -22,7 +22,7 @@
             android:fontFamily="sans-serif-condensed-medium"
             android:hint="Search for gifs"
             android:inputType="text"
-            android:textColor="#999999"
+            android:textColor="@color/white"
             android:textColorHighlight="@color/green_salad"
             android:textColorHint="#999999"
             android:textColorLink="@color/green_salad"
