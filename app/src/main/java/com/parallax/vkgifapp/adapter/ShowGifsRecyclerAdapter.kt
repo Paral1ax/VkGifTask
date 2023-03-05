@@ -18,8 +18,6 @@ import coil.load
 import coil.request.ImageRequest
 import com.parallax.vkgifapp.R
 import com.parallax.vkgifapp.model.GifParams
-import com.parallax.vkgifapp.presentation.gif.SingleGifFragment
-import pl.droidsonroids.gif.GifImageView
 
 /**
  * класс адаптер для ресайклервью
