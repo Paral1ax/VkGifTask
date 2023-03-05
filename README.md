@@ -32,3 +32,10 @@
 
 
 <img src="https://drive.google.com/uc?export=view&id=1upweqtZKfE9hllxJ4rB2PwIN9gwlNlm6" alt="inside" width="200"/>
+
+
+## Библиотеки, которые использовались при написании приложения:
+1. Retrofit2, OkHttp- Для работы с API
+2. Gson - для обработки JSON
+3. Kotlin Coroutines, Lifecycle Scope - для многопоточности
+4. Coil - для загрузки гифок
