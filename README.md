@@ -11,11 +11,11 @@
 4. RecyclerView
 ---
 При загрузке приложения, сначала загружается список из 25 трендовых гифок
-![Trend](https://www.dropbox.com/s/4v0eo694gfc6xg8/trend.png)
+<img src="https://drive.google.com/uc?export=view&id=1FR6dh0ErqnEGuakQSY9KwRsaPVHn6jap" alt="trend" width="200"/>
 
 ---
 Далее, вводя в поисковую строку запрос, и, нажимая кнопку поиска, подгружаются гифки по искомому запросу
-![Searched](https://www.dropbox.com/s/4xl1mfvmb35mhyv/Screenshot_20230305_164804.png?dl=0)
+<img src="https://drive.google.com/uc?export=view&id=1tl1ZeMOkXVEiaBEDqdTe-1Pk1BfFP74W" alt="searched" width="200"/>
 
 Скроллится всё, и viewpager и recyclerview и, также, отдельно сам экран, для удобства просмотра
 ## Экран отображения выбранной гифки состоит из:
