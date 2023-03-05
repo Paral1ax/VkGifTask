@@ -11,7 +11,8 @@
 4. RecyclerView
 ---
 При загрузке приложения, сначала загружается список из 25 трендовых гифок
-![Trend](https://www.dropbox.com/s/4v0eo694gfc6xg8/Screenshot_20230305_164646.png?dl=0)
+![Trend](https://www.dropbox.com/s/4v0eo694gfc6xg8/trend.png?dl=0)
+
 ---
 Далее, вводя в поисковую строку запрос, и, нажимая кнопку поиска, подгружаются гифки по искомому запросу
 ![Searched](https://www.dropbox.com/s/4xl1mfvmb35mhyv/Screenshot_20230305_164804.png?dl=0)
