@@ -25,4 +25,4 @@
     * Рейтинг гифки
     * Размер гифки
     * Id гифки
-![InsideGif](https://drive.google.com/uc?export=view&id=1upweqtZKfE9hllxJ4rB2PwIN9gwlNlm6)
+![InsideGif](https://drive.google.com/uc?export=view&id=1upweqtZKfE9hllxJ4rB2PwIN9gwlNlm6.png)
