@@ -25,4 +25,4 @@
     * Рейтинг гифки
     * Размер гифки
     * Id гифки
-![InsideGif](https://www.dropbox.com/s/rbn7iptlmr8ubyi/Screenshot_20230305_165852.png?dl=0)
+![InsideGif](https://drive.google.com/uc?export=view&id=1upweqtZKfE9hllxJ4rB2PwIN9gwlNlm6/view?usp=share_link)
